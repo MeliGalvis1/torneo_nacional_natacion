@@ -1,0 +1,21 @@
+[{
+  "_id": {
+    "$oid": "663c69b0f0872b88d9952280"
+  },
+  "id": 1,
+  "categoria": "Infantil"
+},
+{
+  "_id": {
+    "$oid": "663c69b0f0872b88d9952281"
+  },
+  "id": 2,
+  "categoria": "Juvenil"
+},
+{
+  "_id": {
+    "$oid": "663c69b0f0872b88d9952282"
+  },
+  "id": 3,
+  "categoria": "Mayor"
+}]

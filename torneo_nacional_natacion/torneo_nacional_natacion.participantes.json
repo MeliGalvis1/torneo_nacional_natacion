@@ -1,0 +1,80 @@
+[{
+  "_id": {
+    "$oid": "663c701df0872b88d995229d"
+  },
+  "id": 1,
+  "nombre": "Participante 1",
+  "equipo": "1"
+},
+{
+  "_id": {
+    "$oid": "663c701df0872b88d995229e"
+  },
+  "id": 2,
+  "nombre": "Participante 2",
+  "equipo": "2"
+},
+{
+  "_id": {
+    "$oid": "663c701df0872b88d995229f"
+  },
+  "id": 3,
+  "nombre": "Participante 3",
+  "equipo": "3"
+},
+{
+  "_id": {
+    "$oid": "663c701df0872b88d99522a0"
+  },
+  "id": 4,
+  "nombre": "Participante 4",
+  "equipo": "4"
+},
+{
+  "_id": {
+    "$oid": "663c701df0872b88d99522a1"
+  },
+  "id": 5,
+  "nombre": "Participante 5",
+  "equipo": "5"
+},
+{
+  "_id": {
+    "$oid": "663c701df0872b88d99522a2"
+  },
+  "id": 6,
+  "nombre": "Participante 1",
+  "equipo": "6"
+},
+{
+  "_id": {
+    "$oid": "663c701df0872b88d99522a3"
+  },
+  "id": 7,
+  "nombre": "Participante 2",
+  "equipo": "7"
+},
+{
+  "_id": {
+    "$oid": "663c701df0872b88d99522a4"
+  },
+  "id": 8,
+  "nombre": "Participante 3",
+  "equipo": "8"
+},
+{
+  "_id": {
+    "$oid": "663c701df0872b88d99522a5"
+  },
+  "id": 9,
+  "nombre": "Participante 4",
+  "equipo": "9"
+},
+{
+  "_id": {
+    "$oid": "663c701df0872b88d99522a6"
+  },
+  "id": 10,
+  "nombre": "Participante 5",
+  "equipo": "10"
+}]

@@ -1,0 +1,180 @@
+[{
+  "_id": {
+    "$oid": "663c6e4ff0872b88d9952289"
+  },
+  "id": 1,
+  "nombre": "Equipo Risaralda Norte",
+  "categoria": 1,
+  "subcategoria": 1
+},
+{
+  "_id": {
+    "$oid": "663c6e4ff0872b88d995228a"
+  },
+  "id": 2,
+  "nombre": "Equipo Risaralda Sur",
+  "categoria": 1,
+  "subcategoria": 1
+},
+{
+  "_id": {
+    "$oid": "663c6e4ff0872b88d995228b"
+  },
+  "id": 3,
+  "nombre": "Equipo Pereira Este",
+  "categoria": 1,
+  "subcategoria": 1
+},
+{
+  "_id": {
+    "$oid": "663c6e4ff0872b88d995228c"
+  },
+  "id": 4,
+  "nombre": "Equipo Cerritos",
+  "categoria": 1,
+  "subcategoria": 2
+},
+{
+  "_id": {
+    "$oid": "663c6e4ff0872b88d995228d"
+  },
+  "id": 5,
+  "nombre": "Equipo Santuario",
+  "categoria": 1,
+  "subcategoria": 2
+},
+{
+  "_id": {
+    "$oid": "663c6e4ff0872b88d995228e"
+  },
+  "id": 6,
+  "nombre": "Equipo Dosquebradas Oeste",
+  "categoria": 1,
+  "subcategoria": 2
+},
+{
+  "_id": {
+    "$oid": "663c6e4ff0872b88d995228f"
+  },
+  "id": 7,
+  "nombre": "Equipo La Celia",
+  "categoria": 2,
+  "subcategoria": 3
+},
+{
+  "_id": {
+    "$oid": "663c6e4ff0872b88d9952290"
+  },
+  "id": 8,
+  "nombre": "Equipo Santa Rosa de Cabal",
+  "categoria": 2,
+  "subcategoria": 3
+},
+{
+  "_id": {
+    "$oid": "663c6e4ff0872b88d9952291"
+  },
+  "id": 9,
+  "nombre": "Equipo Dosquebradas",
+  "categoria": 2,
+  "subcategoria": 3
+},
+{
+  "_id": {
+    "$oid": "663c6e4ff0872b88d9952292"
+  },
+  "id": 10,
+  "nombre": "Equipo Pereira",
+  "categoria": 2,
+  "subcategoria": 4
+},
+{
+  "_id": {
+    "$oid": "663c6e4ff0872b88d9952293"
+  },
+  "id": 11,
+  "nombre": "Equipo Marsella Norte",
+  "categoria": 2,
+  "subcategoria": 4
+},
+{
+  "_id": {
+    "$oid": "663c6e4ff0872b88d9952294"
+  },
+  "id": 12,
+  "nombre": "Equipo Belén de Umbría",
+  "categoria": 2,
+  "subcategoria": 4
+},
+{
+  "_id": {
+    "$oid": "663c6e4ff0872b88d9952295"
+  },
+  "id": 13,
+  "nombre": "Equipo Quinchía",
+  "categoria": 3,
+  "subcategoria": 5
+},
+{
+  "_id": {
+    "$oid": "663c6e4ff0872b88d9952296"
+  },
+  "id": 14,
+  "nombre": "Equipo Mistrató",
+  "categoria": 3,
+  "subcategoria": 5
+},
+{
+  "_id": {
+    "$oid": "663c6e4ff0872b88d9952297"
+  },
+  "id": 15,
+  "nombre": "Equipo Pereira Centro",
+  "categoria": 3,
+  "subcategoria": 5
+},
+{
+  "_id": {
+    "$oid": "663c6e4ff0872b88d9952298"
+  },
+  "id": 16,
+  "nombre": "Equipo Pueblo Rico",
+  "categoria": 3,
+  "subcategoria": 5
+},
+{
+  "_id": {
+    "$oid": "663c6e4ff0872b88d9952299"
+  },
+  "id": 17,
+  "nombre": "Equipo Apía",
+  "categoria": 3,
+  "subcategoria": 6
+},
+{
+  "_id": {
+    "$oid": "663c6e4ff0872b88d995229a"
+  },
+  "id": 18,
+  "nombre": "Equipo Pueblo Rico",
+  "categoria": 3,
+  "subcategoria": 6
+},
+{
+  "_id": {
+    "$oid": "663c6e4ff0872b88d995229b"
+  },
+  "id": 19,
+  "nombre": "Equipo Dosquebradas Sur",
+  "categoria": 3,
+  "subcategoria": 6
+},
+{
+  "_id": {
+    "$oid": "663c6e4ff0872b88d995229c"
+  },
+  "id": 20,
+  "nombre": "Equipo La Celia",
+  "categoria": 3,
+  "subcategoria": 6
+}]

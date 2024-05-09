@@ -1,0 +1,80 @@
+[{
+  "_id": {
+    "$oid": "663c68d3f0872b88d9952279"
+  },
+  "id": 1,
+  "documento": 332211,
+  "nombre": "Juan Carlos Bedoya",
+  "telefono": {
+    "$numberLong": "3214758965"
+  },
+  "tipo": "Juez de salida"
+},
+{
+  "_id": {
+    "$oid": "663c68d3f0872b88d995227a"
+  },
+  "id": 2,
+  "documento": 8457965,
+  "nombre": "Camilo Sepulveda",
+  "telefono": {
+    "$numberLong": "3114785845"
+  },
+  "tipo": "Juez de llegada"
+},
+{
+  "_id": {
+    "$oid": "663c68d3f0872b88d995227b"
+  },
+  "id": 3,
+  "documento": 2145851,
+  "nombre": "Lina Paola Ortiz",
+  "telefono": {
+    "$numberLong": "3214758965"
+  },
+  "tipo": "Juez de virajes"
+},
+{
+  "_id": {
+    "$oid": "663c68d3f0872b88d995227c"
+  },
+  "id": 4,
+  "documento": 6142535,
+  "nombre": "Mariana Carmona",
+  "telefono": {
+    "$numberLong": "3204587145"
+  },
+  "tipo": "Juez de salida y llegada de relevos"
+},
+{
+  "_id": {
+    "$oid": "663c68d3f0872b88d995227d"
+  },
+  "id": 5,
+  "documento": 14785456,
+  "nombre": "Jose Hernesto Alvares",
+  "telefono": 319547852,
+  "tipo": "Jueces de carriles"
+},
+{
+  "_id": {
+    "$oid": "663c68d3f0872b88d995227e"
+  },
+  "id": 6,
+  "documento": 5475621,
+  "nombre": "Sofia Hernandes",
+  "telefono": 31485465,
+  "tipo": "Jueces de infracciones"
+},
+{
+  "_id": {
+    "$oid": "663c68d3f0872b88d995227f"
+  },
+  "id": 7,
+  "documento": 2448664,
+  "nombre": "Brayan Rodriguez",
+  "telefono": {
+    "$numberLong": "3204741256"
+  },
+  "tipo": "Juez de equipo"
+}]

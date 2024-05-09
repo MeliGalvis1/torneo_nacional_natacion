@@ -1,0 +1,48 @@
+[{
+  "_id": {
+    "$oid": "663c6a7df0872b88d9952283"
+  },
+  "id": 1,
+  "categoria": "Infantil",
+  "subcategoria": "Sub-10"
+},
+{
+  "_id": {
+    "$oid": "663c6a7df0872b88d9952284"
+  },
+  "id": 2,
+  "categoria": "Infantil",
+  "subcategoria": "Sub-12"
+},
+{
+  "_id": {
+    "$oid": "663c6a7df0872b88d9952285"
+  },
+  "id": 3,
+  "categoria": "Juvenil",
+  "subcategoria": "Sub-16"
+},
+{
+  "_id": {
+    "$oid": "663c6a7df0872b88d9952286"
+  },
+  "id": 4,
+  "categoria": "Juvenil",
+  "subcategoria": "Sub-18"
+},
+{
+  "_id": {
+    "$oid": "663c6a7df0872b88d9952287"
+  },
+  "id": 5,
+  "categoria": "Mayor",
+  "subcategoria": "Grupo master 20-30"
+},
+{
+  "_id": {
+    "$oid": "663c6a7df0872b88d9952288"
+  },
+  "id": 6,
+  "categoria": "Mayor",
+  "subcategoria": "Grupo master 31-34"
+}]
